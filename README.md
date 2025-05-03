@@ -37,7 +37,7 @@ This repository implements a **Federated Learning (FL)** system for plant diseas
 ### 1. Clone the repo
 ```bash
 git clone https://github.com/Ritesh778/AgriFedNet-Privacy-Preserving-Plant-Pathology-with-MobileNetV3-Small.git
-cd plantvillage-fl
+cd AgriFedNet-Privacy-Preserving-Plant-Pathology-with-MobileNetV3-Small
 ```
 
 ### 2. Create & activate Conda environment
