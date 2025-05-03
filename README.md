@@ -154,7 +154,7 @@ Licensed under the **MIT License**. See `LICENSE`.
 ## 📬 Contact
 
 - Issues? Open a [GitHub issue](https://github.com/Ritesh778/AgriFedNet-Privacy-Preserving-Plant-Pathology-with-MobileNetV3-Small/issues)
-- Maintainer: [Your Name or Email Here]
+- Maintainer: [Ritesh Janga, ritesh.janga@mnsu.edu]
 
 ---
 
