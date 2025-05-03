@@ -29,9 +29,6 @@ This repository implements a **Federated Learning (FL)** system for plant diseas
 - Available from [Kaggle](https://www.kaggle.com/datasets/emmarex/plantdisease)
 - Organized as `PlantVillage/ClassName/*.jpg`
 
-> 🔻 **Note**: Dataset is not included in this repo. Place it at:
-> - **Windows**: `C:\Users\tw9520gi\RJ project\PlantVillage`
-> - **Linux/macOS**: Update the path in `client3.py`
 
 ---
 
