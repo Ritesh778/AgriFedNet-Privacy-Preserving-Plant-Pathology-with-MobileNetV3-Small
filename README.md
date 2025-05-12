@@ -99,7 +99,7 @@ Images are saved in `/images` folder:
 - `client_0_accuracy.png`, `client_1_loss.png`, etc.
 - `client_0_confusion_matrix.png`, etc.
 
-> 📷 Add your own banner image or generated graphs for better visual impact on GitHub.
+
 
 ---
 
